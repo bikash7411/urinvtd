@@ -1,2 +1,0 @@
-# urinvtd
-urinvtd sourcesafe
